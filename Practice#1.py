@@ -1,3 +1,9 @@
+'''
+Adan Rojas Design Code Practice => 03/01
+---------------------------------------------------------
+Store endpoints that were used more than once by unique users 
+---------------------------------------------------------
+'''
 
 input = ["u12:/api/orders",
          "u2:/api/profile",
