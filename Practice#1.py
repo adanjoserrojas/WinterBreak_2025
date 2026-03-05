@@ -1,7 +1,7 @@
 '''
 Adan Rojas Design Code Practice => 03/01
 ---------------------------------------------------------
-Store endpoints that were used more than once by unique users 
+Store endpoints that were used more than once by unique users - Frequency Filter
 ---------------------------------------------------------
 '''
 
